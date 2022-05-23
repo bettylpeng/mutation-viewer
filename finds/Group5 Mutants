@@ -1,0 +1,19 @@
+BinarySearch.c  (39.19)
+} else if(number > array[tmp]) {
+cxx_gt_to_ge 👽 Replaced > with >= Survived (39:19)
+
+permutation.c	19.31
+if (_cmp(q = p - msize, p) > 0)
+cxx_gt_to_ge 👽 Replaced > with >= Survived (19:31)
+
+shaker.c	23.17
+if(a[i - 1] > a[i]) {
+cxx_gt_to_ge 👽 Replaced > with >= Survived (23:17)
+
+merge_sort_one.c	20.12
+if (L[i] <= R[j]) 
+cxx_le_to_gt 👽 Replaced <= with > Survived (20:12)
+
+merge_sort.c	24.25
+if(LeftArray[i] <= RightArray[j])    
+cxx_le_to_gt 👽 Replaced <= with > Survived (24:25)
